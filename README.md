@@ -3,7 +3,6 @@ javascript-fullstack-Reto 4 del módulo 2 perteneciente al curso Javascript Full
 La entrega consiste en crear un Landing page básica con HTML y bootstrap, la cual debía
 basarse en un mockup que nos proporcionó el profesor. 
 
-
 Agrupación del proyecto:
 
 🚀La estructura de carpetas del proyecto es la siguiente...
