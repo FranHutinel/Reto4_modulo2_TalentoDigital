@@ -1,0 +1,119 @@
+#more {display: none;}
+
+
+#logonav{
+    height: 30px !important;
+
+    width: 70px !important;
+}
+
+#principal {
+    text-align: left;
+    
+    font-size: 30px;
+}
+
+#primertexto {
+    width: 90%;
+    text-align: justify;
+    
+}
+
+#primer{
+    width: 65%;
+    margin-left: 100px;
+    margin-top: 100px;
+    text-align: justify;
+
+
+}
+
+#suprema {
+
+    margin-top: 150px;
+    margin-left: 100px;
+    
+    
+}
+
+body {
+    margin-bottom: 10px;
+}
+
+
+
+
+nav ul li {
+    
+    display: inline-block;
+    align-items: left !important;
+    margin-right: 15px;
+    float:left;
+}
+
+#portada {
+    height: 160px;
+    width: 110px;
+    margin-left: 100px;
+}
+
+#asideright {
+    background-color: rgb(212, 212, 212);
+    width: 25%;
+    float: right;
+    margin-right: 0px;
+    margin-top: 110px;
+    margin-bottom: 520px;
+    padding-bottom: 520px;
+    
+    color: rgb(0, 0, 0);
+}
+
+
+.card  {
+    text-align: justify;
+    text-align:left;
+    padding-right: 0px;
+    padding-left: 0px;
+  
+
+}
+
+.column {
+    text-align: justify;
+    float: left;
+    width: 33%;
+    margin-left: 100px;
+    margin-right: -90px;
+}
+
+.container {
+    float: left;
+    width: -100%;
+    margin-top: -480px;
+}
+
+#myBtntres{
+    width: 100px;
+    background-color: rgb(216, 215, 215);
+    color: black;
+}
+
+
+#piesito {
+    margin-bottom: 0px;
+    text-align: justify;
+    display: block;
+    color: rgba(138, 137, 137, 0.596);
+    position: fixed;
+    bottom:0;
+    width: 100%
+}
+
+#banner {
+    height: 30%;
+    width: 70%;
+    margin-left: 60px;
+    margin-top: -80px;
+
+}
